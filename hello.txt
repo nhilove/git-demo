@@ -1,7 +1,5 @@
 hello git hahah
 hello git hahah
-hello git hahah
-hello git 3333
 hello git 3333
 hello git
 hello git
